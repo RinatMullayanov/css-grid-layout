@@ -2,5 +2,5 @@
   display: grid;
 
   /*property for columns*/
-  grid-template-columns: 100px 1fr 100px;
+  grid-template-columns: 200px minmax(100px, 300px) 200px;
 }
