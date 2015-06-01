@@ -1,0 +1,8 @@
+!.gitkeep
+src/MyAppOsx.app/
+src/MyAppWin-win32/
+.idea/
+src/node_modules/
+src/bower_components/
+node_modules/
+server.log

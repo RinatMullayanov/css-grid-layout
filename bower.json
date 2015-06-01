@@ -1,0 +1,18 @@
+{
+  "name": "css-grid-layout",
+  "version": "0.0.1",
+  "authors": [
+    "Rinat Mullayanov <nutsgamedev@gmail.com>"
+  ],
+  "description": "CSS Grid Layout sample of use",
+  "keywords": [
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "src/bower_components"
+  ],
+  "homepage": "https://github.com/RinatMullayanov/css-grid-layout"
+}
