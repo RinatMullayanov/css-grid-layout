@@ -4,7 +4,9 @@
 ## Usage
 You must have installed [node]( https://nodejs.org/ ), [bower]( http://bower.io/ ) and [gulp]( http://gulpjs.com/ ).
 
-Now this sample works only in Chrome with enabled flag chrome://flags/#enable-experimental-web-platform-features.
+Now this sample works in Chrome with enabled flag **chrome://flags/#enable-experimental-web-platform-features**.
+
+If you want to use firefox - enable **layout.css.grid.enabled** in **about:config** and replace in style.css *fr* unit into *px* and increase the value (example 1fr replace 100px)
 
 Need to start usage:
 
