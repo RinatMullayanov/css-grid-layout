@@ -2,5 +2,6 @@
   display: grid;
 
   /*property for columns*/
-  grid-template-columns: (first) 100px (main) 200px (right) 300px (right2) 150px (last);
+  grid-template-columns: (first nav) 150px (main) 1fr (last);
+  grid-template-rows: (first header) 100px (main) 1fr (footer) 50px (last);
 }
